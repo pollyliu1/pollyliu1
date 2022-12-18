@@ -2,7 +2,7 @@
 
 **`Computer Science @ the University of Waterloo`**
 
-Currently in first-year working towards becoming a full-stack developer. Feel free to check out my work!
+Currently in first-year working towards becoming a software engineer. Feel free to check out my work!
 
 Contact me: polly.liu4@gmail.com
 
