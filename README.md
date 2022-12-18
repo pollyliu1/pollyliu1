@@ -1,8 +1,5 @@
 ### 💻 Polly Liu 🎮
 
-<!--
-**pollyliu1/pollyliu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **`Computer Science @ the University of Waterloo`**
 
 Currently in first-year working towards becoming a full-stack developer. Feel free to check out my work!
