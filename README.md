@@ -2,7 +2,7 @@
 
 **`Computer Science @ the University of Waterloo`**
 
-Currently in first-year working towards becoming a software engineer. Feel free to check out my work!
+First-year student and aspiring software engineer. Feel free to check out my work!
 
 Contact me: polly.liu4@gmail.com
 
