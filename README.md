@@ -5,7 +5,7 @@
 First-year student and aspiring software engineer. Feel free to check out my work!
 
 Contact me: polly.liu4@gmail.com \
-Website: <a href="https://pollyliu1.github.io/">pollyliu1.github.io</a>
+Personal Website: <a href="https://pollyliu1.github.io/" target="_blank">pollyliu1.github.io</a>
 
 ---
 
