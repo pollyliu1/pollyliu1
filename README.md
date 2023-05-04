@@ -4,8 +4,8 @@
 
 First-year student and aspiring software engineer. Feel free to check out my work!
 
-Contact me: polly.liu4@gmail.com \
-Personal Website: <a href="https://pollyliu1.github.io/" target="_blank">pollyliu1.github.io</a>
+Contact me: polly.liu@uwaterloo.ca \
+Personal Website: <a href="https://pollyliu.me" target="_blank">pollyliu.me</a>
 
 ---
 
