@@ -2,7 +2,7 @@
 
 **`Computer Science @ the University of Waterloo`**
 
-Second-year student and aspiring software engineer. Feel free to check out my work!
+Third-year student and aspiring software engineer. Feel free to check out my work!
 
 Contact me: polly.liu@uwaterloo.ca \
 Personal Website: <a href="https://pollyliu.me" target="_blank">pollyliu.me</a>
